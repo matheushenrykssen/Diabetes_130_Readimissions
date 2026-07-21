@@ -1,0 +1,718 @@
+﻿diagnosis_id,icd9_code,disease_name,short_name,disease_group
+1,?,Unkown,Unknown,Unkown
+2,10,Cholera due to vibrio cholerae,Cholera d/t vib cholerae,Infectious & Parasitic Diseases
+3,11,Cholera due to vibrio cholerae el tor,Cholera d/t vib el tor,Infectious & Parasitic Diseases
+4,110,Dermatophytosis,Dermatophytosis,Infectious & Parasitic Diseases
+5,112,Candidiasis ,Candidiasis site NOS,Infectious & Parasitic Diseases
+6,114,Primary coccidioidomycosis (pulmonary),Primary coccidioidomycos,Infectious & Parasitic Diseases
+7,115,Histoplasmosis,Histoplasmosis,Infectious & Parasitic Diseases
+8,117,Other and unspecified mycoses,Mycoses NEC & NOS,Infectious & Parasitic Diseases
+9,131,Trichomoniasis unspecified,Trichomoniasis NOS,Infectious & Parasitic Diseases
+10,133,Acariasis unspecified,Acariasis NOS,Infectious & Parasitic Diseases
+11,135,Sarcoidosis,Sarcoidosis,Infectious & Parasitic Diseases
+12,136,Other specified infectious and parasitic diseases,Infect/parasite dis NEC,Infectious & Parasitic Diseases
+13,141,Malignant neoplasm of base of tongue,Mal neo tongue base,Neoplasms
+14,142,Malignant neoplasm of other major salivary glands,Mal neo maj salivary NEC,Neoplasms
+15,143,Malignant neoplasm of gum unspecified,Malig neo gum NOS,Neoplasms
+16,145,Malignant neoplasm of other specified parts of mouth,Malig neoplasm mouth NEC,Neoplasms
+17,146,Malignant neoplasm of junctional region of oropharynx,Mal neo epiglottis junct,Neoplasms
+18,147,Malignant neoplasm of nasopharynx unspecified site,Mal neo nasopharynx NOS,Neoplasms
+19,148,Malignant neoplasm of hypopharynx,Mal neo hypopharynx NOS,Neoplasms
+20,149,Malignant neoplasm of ill-defined sites within the lip and oral cavity,Mal neo orophryn ill-def,Neoplasms
+21,150,Malignant neoplasm of abdominal esophagus,Mal neo abdomin esophag,Neoplasms
+22,151,Malignant neoplasm of stomach unspecified site,Malig neopl stomach NOS,Neoplasms
+23,152,Malignant neoplasm of other specified sites of small intestine,Mal neo small bowel NEC,Neoplasms
+24,153,Malignant neoplasm of colon unspecified site,Malignant neo colon NOS,Neoplasms
+25,154,Malignant neoplasm of other sites of rectum rectosigmoid junction and anus,Mal neo rectum/anus NEC,Neoplasms
+26,155,Malignant neoplasm of liver not specified as primary or secondary,Malignant neo liver NOS,Neoplasms
+27,156,Malignant neoplasm of biliary tract part unspecified site,Malig neo biliary NOS,Neoplasms
+28,157,Malignant neoplasm of pancreas part unspecified,Malig neo pancreas NOS,Neoplasms
+29,158,Malignant neoplasm of peritoneum unspecified,Mal neo peritoneum NOS,Neoplasms
+30,160,Malignant neoplasm of accessory sinus unspecified,Mal neo access sinus NOS,Neoplasms
+31,161,Malignant neoplasm of larynx unspecified,Malignant neo larynx NOS,Neoplasms
+32,162,Malignant neoplasm of bronchus and lung unspecified,Mal neo bronch/lung NOS,Neoplasms
+33,163,Malignant neoplasm of pleura unspecified,Malig neopl pleura NOS,Neoplasms
+34,164,Malignant neoplasm of mediastinum part unspecified,Mal neo mediastinum NOS,Neoplasms
+35,170,Malignant neoplasm of bones of skull and face except mandible,Mal neo skull/face bone,Neoplasms
+36,171,Malignant neoplasm of connective and other soft tissue site unspecified,Mal neo soft tissue NOS,Neoplasms
+37,172,Melanoma of skin site unspecified,Malig melanoma skin NOS,Neoplasms
+38,173,Other specified malignant neoplasm of skin site unspecified,Oth mal neo skn site NOS,Neoplasms
+39,174,Malignant neoplasm of breast (female) unspecified,Malign neopl breast NOS,Neoplasms
+40,175,Malignant neoplasm of other and unspecified sites of male breast,Mal neo male breast NEC,Neoplasms
+41,179,Malignant neoplasm of uterus part unspecified,Malig neopl uterus NOS,Neoplasms
+42,180,Malignant neoplasm of cervix uteri unspecified site,Mal neo cervix uteri NOS,Neoplasms
+43,182,Malignant neoplasm of other specified sites of body of uterus,Mal neo body uterus NEC,Neoplasms
+44,183,Malignant neoplasm of ovary,Malign neopl ovary,Neoplasms
+45,184,Malignant neoplasm of female genital organ site unspecified,Mal neo female genit NOS,Neoplasms
+46,185,Malignant neoplasm of prostate,Malign neopl prostate,Neoplasms
+47,187,Malignant neoplasm of male genital organ site unspecified,Mal neo male genital NOS,Neoplasms
+48,188,Malignant neoplasm of bladder part unspecified,Malig neo bladder NOS,Neoplasms
+49,189,Malignant neoplasm of kidney except pelvis,Malig neopl kidney,Neoplasms
+50,191,Malignant neoplasm of brain unspecified,Malig neo brain NOS,Neoplasms
+51,192,Malignant neoplasm of nervous system part unspecified,Mal neo nervous syst NOS,Neoplasms
+52,193,Malignant neoplasm of thyroid gland,Malign neopl thyroid,Neoplasms
+53,194,Malignant neoplasm of other endocrine glands and related structures,Mal neo endocrine NEC,Neoplasms
+54,195,Malignant neoplasm of other specified sites,Malig neo site NEC,Neoplasms
+55,196,Secondary and unspecified malignant neoplasm of lymph nodes site unspecified,Mal neo lymph node NOS,Neoplasms
+56,197,Secondary malignant neoplasm of other digestive organs and spleen,Sec mal neo GI NEC,Neoplasms
+57,198,Secondary malignant neoplasm of other specified sites,Secondary malig neo NEC,Neoplasms
+58,199,Other malignant neoplasm without specification of site,Malignant neoplasm NOS,Neoplasms
+59,200,Other named variants of lymphosarcoma and reticulosarcoma lymph nodes of multiple sites,Mixed lymphosarc mult,Neoplasms
+60,201,Hodgkin's disease unspecified type lymph nodes of multiple sites,Hodgkins dis NOS mult,Neoplasms
+61,202,Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue lymph nodes of multiple sites,Lymphoid mal NEC mult,Neoplasms
+62,203,Multiple myeloma without mention of having achieved remission,Mult mye w/o achv rmson,Neoplasms
+63,204,Secondary pneumonic plague,Secondary pneumon plague,Neoplasms
+64,205,Other lymphoid leukemia without mention of having achieved remission,Oth lym leu wo achv rmsn,Neoplasms
+65,207,Other specified leukemia in remission,Oth spf leuk w remsion,Neoplasms
+66,208,Unspecified leukemia without mention of having achieved remission,Leuk NOS w/o achv rmsn,Neoplasms
+67,210,Benign neoplasm of lip,Benign neoplasm lip,Neoplasms
+68,211,Benign neoplasm of other and unspecified site in the digestive system,Ben neo GI tract NEC/NOS,Neoplasms
+69,212,Benign neoplasm of respiratory and intrathoracic organs site unspecified,Benign neo resp sys NOS,Neoplasms
+70,214,Lipoma of skin and subcutaneous tissue of face,Lipoma skin face,Neoplasms
+71,215,Other benign neoplasm of connective and other soft tissue site unspecified,Ben neo soft tissue NOS,Neoplasms
+72,216,Benign neoplasm of skin site unspecified,Benign neoplasm skin NOS,Neoplasms
+73,217,Benign neoplasm of breast,Benign neoplasm breast,Neoplasms
+74,218,Leiomyoma of uterus unspecified,Uterine leiomyoma NOS,Neoplasms
+75,219,Benign neoplasm of uterus part unspecified,Benign neo uterus NOS,Neoplasms
+76,220,Benign neoplasm of ovary,Benign neoplasm ovary,Neoplasms
+77,223,Benign neoplasm of urinary organ site unspecified,Benign neo urinary NOS,Neoplasms
+78,225,Benign neoplasm of nervous system part unspecified,Benign neo nerv sys NOS,Neoplasms
+79,226,Benign neoplasm of thyroid glands,Benign neoplasm thyroid,Neoplasms
+80,227,Benign neoplasm of endocrine gland site unspecified,Benign neo endocrine NOS,Neoplasms
+81,228,Lymphangioma any site,Lymphangioma any site,Neoplasms
+82,229,Benign neoplasm of unspecified site,Benign neoplasm NOS,Neoplasms
+83,23,Paratyphoid fever C,Paratyphoid fever c,Infectious & Parasitic Diseases
+84,230,Carcinoma in situ of other and unspecified digestive organs,Ca in situ GI NEC/NOS,Neoplasms
+85,233,Carcinoma in situ of other and unspecified urinary organs,Ca in situ urinary NEC,Neoplasms
+86,235,Neoplasm of uncertain behavior of other and unspecified respiratory organs,Unc behav neo resp NEC,Neoplasms
+87,236,Neoplasm of uncertain behavior of urinary organ unspecified,Unc behav neo urinar NOS,Neoplasms
+88,237,Neoplasm of uncertain behavior of other and unspecified parts of nervous system,Unc beh neo nerv sys NEC,Neoplasms
+89,238,Neoplasm of uncertain behavior site unspecified,Uncert behavior neo NOS,Neoplasms
+90,239,Neoplasm of unspecified nature site unspecified,Neoplasm NOS,Neoplasms
+91,240,Goiter specified as simple,Simple goiter,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+92,241,Nontoxic uninodular goiter,Nontox uninodular goiter,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+93,242,Thyrotoxicosis without mention of goiter,Thyrotox NOS no crisis,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+94,244,Unspecified acquired hypothyroidism,Hypothyroidism NOS,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+95,245,Thyroiditis unspecified,Thyroiditis NOS,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+96,246,Other specified disorders of thyroid,Disorders of thyroid NEC,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+97,250,Diabetes mellitus,DM,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+98,250.01,Diabetes mellitus without mention of complication type I [juvenile type] not stated as uncontrolled,DMI wo cmp nt st uncntrl,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+99,250.02,Diabetes mellitus without mention of complication type II or unspecified type uncontrolled,DMII wo cmp uncntrld,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+100,250.03,Diabetes mellitus without mention of complication type I [juvenile type] uncontrolled,DMI wo cmp uncntrld,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+101,250.1,Diabetes with ketoacidosis type II or unspecified type not stated as uncontrolled,DMII keto nt st uncntrld,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+102,250.11,Diabetes with ketoacidosis type I [juvenile type] not stated as uncontrolled,DMI keto nt st uncntrld,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+103,250.12,Diabetes with ketoacidosis type II or unspecified type uncontrolled,DMII ketoacd uncontrold,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+104,250.13,Diabetes with ketoacidosis type I [juvenile type] uncontrolled,DMI ketoacd uncontrold,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+105,250.2,Diabetes with hyperosmolarity type II or unspecified type not stated as uncontrolled,DMII hprsm nt st uncntrl,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+106,250.21,Diabetes with hyperosmolarity type I [juvenile type] not stated as uncontrolled,DMI hprsm nt st uncntrld,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+107,250.22,Diabetes with hyperosmolarity type II or unspecified type uncontrolled,DMII hprosmlr uncontrold,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+108,250.23,Diabetes with hyperosmolarity type I [juvenile type] uncontrolled,DMI hprosmlr uncontrold,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+109,250.3,Diabetes with other coma type II or unspecified type not stated as uncontrolled,DMII o cm nt st uncntrld,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+110,250.31,Diabetes with other coma type I [juvenile type] not stated as uncontrolled,DMI o cm nt st uncntrld,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+111,250.32,Diabetes with other coma type II or unspecified type uncontrolled,DMII oth coma uncontrold,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+112,250.33,Diabetes with other coma type I [juvenile type] uncontrolled,DMI oth coma uncontrold,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+113,250.4,Diabetes with renal manifestations type II or unspecified type not stated as uncontrolled,DMII renl nt st uncntrld,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+114,250.41,Diabetes with renal manifestations type I [juvenile type] not stated as uncontrolled,DMI renl nt st uncntrld,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+115,250.42,Diabetes with renal manifestations type II or unspecified type uncontrolled,DMII renal uncntrld,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+116,250.43,Diabetes with renal manifestations type I [juvenile type] uncontrolled,DMI renal uncntrld,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+117,250.5,Diabetes with ophthalmic manifestations type II or unspecified type not stated as uncontrolled,DMII ophth nt st uncntrl,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+118,250.51,Diabetes with ophthalmic manifestations type I [juvenile type] not stated as uncontrolled,DMI ophth nt st uncntrld,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+119,250.52,Diabetes with ophthalmic manifestations type II or unspecified type uncontrolled,DMII ophth uncntrld,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+120,250.53,Diabetes with ophthalmic manifestations type I [juvenile type] uncontrolled,DMI ophth uncntrld,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+121,250.6,Diabetes with neurological manifestations type II or unspecified type not stated as uncontrolled,DMII neuro nt st uncntrl,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+122,250.7,Diabetes with peripheral circulatory disorders type II or unspecified type not stated as uncontrolled,DMII circ nt st uncntrld,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+123,250.8,Diabetes with other specified manifestations type II or unspecified type not stated as uncontrolled,DMII oth nt st uncntrld,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+124,250.81,Diabetes with other specified manifestations type I [juvenile type] not stated as uncontrolled,DMI oth nt st uncntrld,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+125,250.82,Diabetes with other specified manifestations type II or unspecified type uncontrolled,DMII oth uncntrld,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+126,250.83,Diabetes with other specified manifestations type I [juvenile type] uncontrolled,DMI oth uncntrld,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+127,250.9,Diabetes with unspecified complication type II or unspecified type not stated as uncontrolled,DMII unspf nt st uncntrl,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+128,250.91,Diabetes with unspecified complication type I [juvenile type] not stated as uncontrolled,DMI unspf nt st uncntrld,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+129,250.92,Diabetes with unspecified complication type II or unspecified type uncontrolled,DMII unspf uncntrld,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+130,250.93,Diabetes with unspecified complication type I [juvenile type] uncontrolled,DMI unspf uncntrld,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+131,251,Other disorders of pancreatic internal secretion,Pancreatic disorder NEC,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+132,252,Disorders of parathyroid gland,Parathyroid disorder NEC,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+133,253,Disorders of the pituitary gland and its hypothalamic control,Pituitary disorder NEC,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+134,255,Disorders of adrenal glands,Adrenal disorder NEC,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+135,261,Nutritional marasmus,Nutritional marasmus,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+136,262,Other severe protein-calorie malnutrition,Oth severe malnutrition,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+137,263,Other and unspecified protein-calorie malnutrition,Protein-cal malnutr NEC/NOS,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+138,266,Deficiency of B-complex components,B-complex defic NEC,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+139,27,Other zoonotic bacterial diseases,Zoonotic bact dis NEC,Infectious & Parasitic Diseases
+140,271,Disorders of carbohydrate transport and metabolism,Dis carbohydr metab NEC,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+141,272,Disorders of lipoid metabolism,Lipoid metabol dis NEC,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+142,273,Disorders of plasma protein metabolism,Dis plas protein met NEC,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+143,274,Gout,Gout NOS,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+144,275,Disorders of mineral metabolism,Dis mineral metabol NEC,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+145,276,Disorders of fluid electrolyte and acid-base balance,Electrolyt/fluid dis NEC,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+146,277,Other and unspecified disorders of metabolism,Metabolism disorder NEC,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+147,278,Obesity and other hyperalimentation,Obesity NOS,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+148,279,Disorders involving the immune mechanism,Immune mechanism dis NEC,Endocrine Nutritional and Metabolic Diseases and Imunuity Disorders
+149,280,Iron deficiency anemias,Iron defic anemia NOS,Diseases of the Blood and Blood-Forming Organs
+150,281,Other deficiency anemias,Deficiency anemia NOS,Diseases of the Blood and Blood-Forming Organs
+151,282,Hereditary hemolytic anemias,Hered hemolytic anem NOS,Diseases of the Blood and Blood-Forming Organs
+152,283,Acquired hemolytic anemias,Acq hemolytic anemia NOS,Diseases of the Blood and Blood-Forming Organs
+153,284,Aplastic anemia,Aplastic anemia NOS,Diseases of the Blood and Blood-Forming Organs
+154,285,Other and unspecified anemias,Anemia NOS,Diseases of the Blood and Blood-Forming Organs
+155,286,Coagulation defects,Coagulat defect NEC/NOS,Diseases of the Blood and Blood-Forming Organs
+156,287,Purpura and other hemorrhagic conditions,Hemorrhagic cond NEC/NOS,Diseases of the Blood and Blood-Forming Organs
+157,288,Diseases of white blood cells,Wbc disease NEC/NOS,Diseases of the Blood and Blood-Forming Organs
+158,289,Other diseases of blood and blood-forming organs,Blood disease NOS,Diseases of the Blood and Blood-Forming Organs
+159,290,Dementias,Dementia NOS w/o behv dstrb,Mental Disorders
+160,291,Alcohol-induced mental disorders,Alcohol mental disor NOS,Mental Disorders
+161,292,Drug-induced mental disorders,Drug mental disorder NOS,Mental Disorders
+162,293,Transient mental disorders due to conditions classified elsewhere,Transient mental dis NOS,Mental Disorders
+163,294,Persistent mental disorders due to conditions classified elsewhere,Mental disor NOS oth dis,Mental Disorders
+164,295,Schizophrenic disorders,Schizophrenia NOS-unspec,Mental Disorders
+165,296,Episodic mood disorders,Episodic mood disord NOS,Mental Disorders
+166,297,Delusional disorders,Delusional disorder,Mental Disorders
+167,298,Other nonorganic psychoses,Psychosis NOS,Mental Disorders
+168,299,Pervasive developmental disorders,Pervasv dev dis-cur NOS,Mental Disorders
+169,3,Other salmonella infections,Salmonella infection NOS,Infectious & Parasitic Diseases
+170,300,Anxiety dissociative and somatoform disorders,Anxiety state NOS,Mental Disorders
+171,301,Personality disorders,Personality disorder NOS,Mental Disorders
+172,303,Alcohol dependence syndrome,Alcoh dep NEC/NOS-unspec,Mental Disorders
+173,304,Drug dependence,Drug depend NOS-unspec,Mental Disorders
+174,305,Nondependent abuse of drugs,Drug abuse NEC-unspec,Mental Disorders
+175,306,Physiological malfunction arising from mental factors,Psychogenic disorder NEC,Mental Disorders
+176,307,Special symptoms or syndromes not elsewhere classified,Special symptom NEC/NOS,Mental Disorders
+177,308,Acute reaction to stress,Acute stress react NOS,Mental Disorders
+178,309,Adjustment reaction,Adjustment reaction NOS,Mental Disorders
+179,31,Salmonella septicemia,Salmonella septicemia,Infectious & Parasitic Diseases
+180,310,Specific nonpsychotic mental disorders due to organic brain damage,Nonpsychot brain syn NOS,Mental Disorders
+181,311,Depressive disorder not elsewhere classified,Depressive disorder NEC,Mental Disorders
+182,312,Disturbance of conduct not elsewhere classified,Conduct disturbance NOS,Mental Disorders
+183,314,Hyperkinetic syndrome of childhood,Hyperkinetic synd NOS,Mental Disorders
+184,318,Other specified mental retardation,Mod intellect disability,Mental Disorders
+185,320,Bacterial meningitis,Bacterial meningitis NOS,Nervous System & Sense Organs
+186,322,Meningitis of unspecified cause,Meningitis NOS,Nervous System & Sense Organs
+187,323,Encephalitis myelitis and encephalomyelitis,Encephalitis NOS,Nervous System & Sense Organs
+188,324,Intracranial and intraspinal abscess,Cns abscess NOS,Nervous System & Sense Organs
+189,325,Phlebitis and thrombophlebitis of intracranial venous sinuses,Phlebitis intrcran sinus,Nervous System & Sense Organs
+190,327,Organic sleep disorders,Sleep organic disord NEC,Nervous System & Sense Organs
+191,331,Other cerebral degenerations,Cereb degeneration NEC,Nervous System & Sense Organs
+192,332,Parkinson's disease,Paralysis agitans,Nervous System & Sense Organs
+193,333,Other extrapyramidal disease and abnormal movement disorders,Extrapyramidal dis NEC,Nervous System & Sense Organs
+194,334,Spinocerebellar disease,Spinocerebellar dis NOS,Nervous System & Sense Organs
+195,335,Anterior horn cell disease,Ant horn cell dis NOS,Nervous System & Sense Organs
+196,336,Other diseases of spinal cord,Spinal cord disease NOS,Nervous System & Sense Organs
+197,337,Disorders of the autonomic nervous system,Autonomic nerve dis NEC,Nervous System & Sense Organs
+198,338,Pain not elsewhere classified,Pain NOS,Nervous System & Sense Organs
+199,34,Streptococcal sore throat and scarlet fever,Scarlet fever,Infectious & Parasitic Diseases
+200,340,Multiple sclerosis,Multiple sclerosis,Nervous System & Sense Organs
+201,341,Other demyelinating diseases of central nervous system,Cns demyelination NEC,Nervous System & Sense Organs
+202,342,Hemiplegia and hemiparesis,Unsp hemiplga unspf side,Nervous System & Sense Organs
+203,344,Other paralytic syndromes,Paralysis NOS,Nervous System & Sense Organs
+204,345,Epilepsy and recurrent seizures,Epilep NOS w/o intr epil,Nervous System & Sense Organs
+205,346,Migraine,Mgrn NOS wo ntrc mgrn,Nervous System & Sense Organs
+206,347,Cataplexy and narcolepsy,Narcolepsy w/o cataplexy,Nervous System & Sense Organs
+207,348,Other conditions of brain,Brain condition NOS,Nervous System & Sense Organs
+208,349,Other and unspecified disorders of the nervous system,Cns disorder NOS,Nervous System & Sense Organs
+209,35,Erysipelas,Erysipelas,Infectious & Parasitic Diseases
+210,350,Trigeminal nerve disorders,Trigeminal nerve dis NOS,Nervous System & Sense Organs
+211,351,Facial nerve disorders,Facial nerve dis NOS,Nervous System & Sense Organs
+212,352,Disorders of other cranial nerves,Cranial nerve dis NOS,Nervous System & Sense Organs
+213,353,Nerve root and plexus disorders,Nerv root/plexus dis NOS,Nervous System & Sense Organs
+214,354,Mononeuritis of upper limb and mononeuritis multiplex,Mononeuritis arm NOS,Nervous System & Sense Organs
+215,355,Mononeuritis of lower limb and unspecified site,Mononeuritis leg NOS,Nervous System & Sense Organs
+216,356,Hereditary and idiopathic peripheral neuropathy,Idio periph neurpthy NOS,Nervous System & Sense Organs
+217,357,Inflammatory and toxic neuropathy,Inflam/tox neuropthy NOS,Nervous System & Sense Organs
+218,358,Myoneural disorders,Myoneural disorders NOS,Nervous System & Sense Organs
+219,359,Muscular dystrophies and other myopathies,Myopathy NOS,Nervous System & Sense Organs
+220,36,Meningococcal infection,Meningococcal infect NOS,Infectious & Parasitic Diseases
+221,360,Disorders of the globe,Disorder of globe NOS,Nervous System & Sense Organs
+222,361,Retinal detachments and defects,Retinal detachment NOS,Nervous System & Sense Organs
+223,362,Other retinal disorders,Retinal disorder NOS,Nervous System & Sense Organs
+224,363,Chorioretinal inflammations scars and other disorders of choroid,Choroidal disorder NOS,Nervous System & Sense Organs
+225,365,Glaucoma,Glaucoma NOS,Nervous System & Sense Organs
+226,366,Cataract,Cataract NOS,Nervous System & Sense Organs
+227,368,Visual disturbances,Visual disturbance NOS,Nervous System & Sense Organs
+228,369,Blindness and low vision,Visual loss NOS,Nervous System & Sense Organs
+229,370,Keratitis,Keratitis NOS,Nervous System & Sense Organs
+230,372,Disorders of conjunctiva,Conjunctiva disorder NOS,Nervous System & Sense Organs
+231,373,Inflammation of eyelids,Inflammation eyelid NOS,Nervous System & Sense Organs
+232,374,Other disorders of eyelids,Disorder of eyelid NOS,Nervous System & Sense Organs
+233,375,Disorders of lacrimal system,Lacrimal syst dis NOS,Nervous System & Sense Organs
+234,376,Disorders of the orbit,Orbital disorder NOS,Nervous System & Sense Organs
+235,377,Disorders of optic nerve and visual pathways,Optic nerve disorder NOS,Nervous System & Sense Organs
+236,378,Strabismus and other disorders of binocular eye movements,Eye movemnt disorder NOS,Nervous System & Sense Organs
+237,379,Other disorders of eye,Eye disorder NOS,Nervous System & Sense Organs
+238,38,Septicemia,Septicemia NOS,Infectious & Parasitic Diseases
+239,380,Disorders of external ear,Dis external ear NOS,Nervous System & Sense Organs
+240,381,Nonsuppurative otitis media and eustachian tube disorders,Nonsupp otitis media NOS,Nervous System & Sense Organs
+241,382,Suppurative and unspecified otitis media,Otitis media NOS,Nervous System & Sense Organs
+242,383,Mastoiditis and related conditions,Mastoiditis NOS,Nervous System & Sense Organs
+243,384,Other disorders of tympanic membrane,Dis tympanic memb NOS,Nervous System & Sense Organs
+244,385,Other disorders of middle ear and mastoid,Dis mid ear/mastoid NOS,Nervous System & Sense Organs
+245,386,Vertiginous syndromes and other disorders of vestibular system,Vertiginous synd NOS,Nervous System & Sense Organs
+246,388,Other disorders of ear,Disorder of ear NOS,Nervous System & Sense Organs
+247,389,Hearing loss,Hearing loss NOS,Nervous System & Sense Organs
+248,39,Actinomycotic infections,Actinomycosis NOS,Infectious & Parasitic Diseases
+249,391,Rheumatic fever with heart involvement,Ac rheumat hrt dis NOS,Circulatory System
+250,394,Diseases of mitral valve,Mitral valve dis NEC/NOS,Circulatory System
+251,395,Diseases of aortic valve,Rheum aortic dis NEC/NOS,Circulatory System
+252,396,Diseases of mitral and aortic valves,Mitral/aortic v dis NOS,Circulatory System
+253,397,Diseases of other endocardial structures,Rheum endocarditis NOS,Circulatory System
+254,398,Other rheumatic heart disease,Rheumatic heart dis NOS,Circulatory System
+255,401,Essential hypertension,Hypertension NOS,Circulatory System
+256,402,Hypertensive heart disease,Hyp ht dis NOS w/o hf,Circulatory System
+257,403,Hypertensive renal disease,Hyp kid NOS w cr kid I-IV,Circulatory System
+258,404,Hypertensive heart and renal disease,Hyp ht/kd NOS I-IV w/o hf,Circulatory System
+259,405,Secondary hypertension,Second hypertension NEC,Circulatory System
+260,41,Bacterial infection in conditions classified elsewhere and of unspecified site,Bacterial infection NOS,Infectious & Parasitic Diseases
+261,410,Acute myocardial infarction,AMI NOS unspecified,Circulatory System
+262,411,Other acute and subacute forms of ischemic heart disease,Ac ischemic hrt dis NEC,Circulatory System
+263,412,Old myocardial infarction,Old myocardial infarct,Circulatory System
+264,413,Angina pectoris,Angina pectoris NEC/NOS,Circulatory System
+265,414,Other forms of chronic ischemic heart disease,Chr ischemic hrt dis NOS,Circulatory System
+266,415,Acute pulmonary heart disease,Acute cor pulmonale,Circulatory System
+267,416,Chronic pulmonary heart disease,Chr pulmon heart dis NOS,Circulatory System
+268,417,Other diseases of pulmonary circulation,Pulmon circulat dis NOS,Circulatory System
+269,42,Human immunodeficiency virus [HIV] disease,Human immuno virus dis,Infectious & Parasitic Diseases
+270,420,Acute pericarditis,Acute pericarditis NOS,Circulatory System
+271,421,Acute and subacute endocarditis,Ac/subac endocardit NOS,Circulatory System
+272,422,Acute myocarditis,Acute myocarditis NOS,Circulatory System
+273,423,Other diseases of pericardium,Pericardial disease NOS,Circulatory System
+274,424,Other diseases of endocardium,Endocarditis NOS,Circulatory System
+275,425,Cardiomyopathy,Second cardiomyopath NOS,Circulatory System
+276,426,Conduction disorders,Conduction disorder NOS,Circulatory System
+277,427,Cardiac dysrhythmias,Cardiac dysrhythmia NOS,Circulatory System
+278,428,Heart failure,Heart failure NOS,Circulatory System
+279,429,Ill-defined descriptions and complications of heart disease,Ill-defined hrt dis NEC,Circulatory System
+280,430,Subarachnoid hemorrhage,Subarachnoid hemorrhage,Circulatory System
+281,431,Intracerebral hemorrhage,Intracerebral hemorrhage,Circulatory System
+282,432,Other and unspecified intracranial hemorrhage,Intracranial hemorr NOS,Circulatory System
+283,433,Occlusion and stenosis of precerebral arteries,Ocl art NOS wo infrct,Circulatory System
+284,434,Occlusion of cerebral arteries,Crbl art oc NOS wo infrc,Circulatory System
+285,435,Transient cerebral ischemia,Trans cereb ischemia NOS,Circulatory System
+286,436,Acute but ill-defined cerebrovascular disease,Cva,Circulatory System
+287,437,Other and ill-defined cerebrovascular disease,Cerebrovasc disease NOS,Circulatory System
+288,438,Late effects of cerebrovascular disease,Late effect CV dis NOS,Circulatory System
+289,440,Atherosclerosis,Atherosclerosis NOS,Circulatory System
+290,441,Aortic aneurysm and dissection,Aortic aneurysm NOS,Circulatory System
+291,442,Other aneurysm,Aneurysm NOS,Circulatory System
+292,443,Other peripheral vascular disease,Periph vascular dis NOS,Circulatory System
+293,444,Arterial embolism and thrombosis,Arterial embolism NOS,Circulatory System
+294,445,Atheroembolism,Atheroembolism site NEC,Circulatory System
+295,446,Polyarteritis nodosa and allied conditions,Polyarteritis nodosa,Circulatory System
+296,447,Other disorders of arteries and arterioles,Arterial disease NOS,Circulatory System
+297,448,Disease of capillaries,Capillary dis NEC/NOS,Circulatory System
+298,451,Phlebitis and thrombophlebitis,Thrombophlebitis NOS,Circulatory System
+299,452,Portal vein thrombosis,Portal vein thrombosis,Circulatory System
+300,453,Other venous embolism and thrombosis,Veness thrombosis NOS,Circulatory System
+301,454,Varicose veins of lower extremities,Asympt varicose veins,Circulatory System
+302,455,Hemorrhoids,Hemorrhoids NOS,Circulatory System
+303,456,Varicose veins of other sites,Varices of other sites,Circulatory System
+304,457,Noninfectious disorders of lymphatic channels,Noninfect lymph dis NOS,Circulatory System
+305,458,Hypotension,Hypotension NOS,Circulatory System
+306,459,Other disorders of circulatory system,Circulatory disease NOS,Circulatory System
+307,461,Acute sinusitis,Acute sinusitis NOS,Respiratory System
+308,462,Acute pharyngitis,Acute pharyngitis,Respiratory System
+309,463,Acute tonsillitis,Acute tonsillitis,Respiratory System
+310,464,Acute laryngitis and tracheitis,Ac laryngitis w/o obst,Respiratory System
+311,465,Acute upper respiratory infections of multiple or unspecified sites,Acute uri NOS,Respiratory System
+312,466,Acute bronchitis and bronchiolitis,Acute bronchitis,Respiratory System
+313,47,Meningitis due to enterovirus,Viral meningitis NOS,Infectious & Parasitic Diseases
+314,470,Deviated nasal septum,Deviated nasal septum,Respiratory System
+315,471,Nasal polyps,Nasal polyp NOS,Respiratory System
+316,473,Chronic sinusitis,Chronic sinusitis NOS,Respiratory System
+317,474,Chronic disease of tonsils and adenoids,Chr T & A dis NOS,Respiratory System
+318,475,Peritonsillar abscess,Peritonsillar abscess,Respiratory System
+319,477,Allergic rhinitis,Allergic rhinitis NOS,Respiratory System
+320,478,Other diseases of upper respiratory tract,Upper resp dis NEC/NOS,Respiratory System
+321,48,Other enterovirus diseases of central nervous system,Oth enteroviral cns dis,Infectious & Parasitic Diseases
+322,480,Viral pneumonia,Viral pneumonia NOS,Respiratory System
+323,481,Pneumococcal pneumonia [Streptococcus pneumoniae pneumonia],Pneumococcal pneumonia,Respiratory System
+324,482,Other bacterial pneumonia,Bacterial pneumonia NOS,Respiratory System
+325,483,Pneumonia due to other specified organism,Pneumon oth spec orgnsm,Respiratory System
+326,485,Bronchopneumonia organism unspecified,Bronchopneumonia org NOS,Respiratory System
+327,486,Pneumonia organism unspecified,Pneumonia organism NOS,Respiratory System
+328,487,Influenza,Influenza with pneumonia,Respiratory System
+329,49,Other non-arthropod-borne viral diseases of central nervous system,Viral encephalitis NOS,Infectious & Parasitic Diseases
+330,490,Bronchitis not specified as acute or chronic,Bronchitis NOS,Respiratory System
+331,491,Chronic bronchitis,Chronic bronchitis NOS,Respiratory System
+332,492,Emphysema,Emphysema NEC,Respiratory System
+333,493,Asthma,Asthma NOS,Respiratory System
+334,494,Bronchiectasis,Bronchiectas w/o ac exac,Respiratory System
+335,495,Extrinsic allergic alveolitis,Allerg alveol/pneum NOS,Respiratory System
+336,496,Chronic airway obstruction not elsewhere classified,Chr airway obstruct NEC,Respiratory System
+337,5,Other food poisoning (bacterial),Bact food poisoning NEC,Infectious & Parasitic Diseases
+338,500,Coal workers' pneumoconiosis,Coal workers' pneumocon,Respiratory System
+339,501,Asbestosis,Asbestosis,Respiratory System
+340,506,Respiratory conditions due to chemical fumes and vapors,Fum/vapor resp cond NOS,Respiratory System
+341,507,Pneumonitis due to solids and liquids,Solid/liq pneumonit NEC,Respiratory System
+342,508,Respiratory conditions due to other and unspecified external agents,Resp cond: ext agent NOS,Respiratory System
+343,510,Empyema,Empyema w/o fistula,Respiratory System
+344,511,Pleurisy,Pleurisy w/o effus or TB,Respiratory System
+345,512,Pneumothorax and air leak,Other pneumothorax,Respiratory System
+346,513,Abscess of lung and mediastinum,Abscess of lung,Respiratory System
+347,514,Pulmonary congestion and hypostasis,Pulm congest/hypostasis,Respiratory System
+348,515,Postinflammatory pulmonary fibrosis,Postinflam pulm fibrosis,Respiratory System
+349,516,Other alveolar and parietoalveolar pneumonopathy,Alveol pneumonopathy NOS,Respiratory System
+350,518,Other diseases of lung,Other lung disease NEC,Respiratory System
+351,519,Other diseases of respiratory system,Resp system disease NOS,Respiratory System
+352,52,Chickenpox,Varicella uncomplicated,Infectious & Parasitic Diseases
+353,521,Diseases of hard tissues of teeth,Hard tiss dis teeth NOS,Digestive System
+354,522,Diseases of pulp and periapical tissues,Pulp/periapical dis NEC,Digestive System
+355,523,Gingival and periodontal diseases,Gingiv/periodont dis NOS,Digestive System
+356,524,Dentofacial anomalies including malocclusion,Dentofacial anomaly NOS,Digestive System
+357,526,Diseases of the jaws,Jaw disease NOS,Digestive System
+358,527,Diseases of the salivary glands,Salivary gland dis NOS,Digestive System
+359,528,Diseases of the oral soft tissues excluding lesions specific for gingiva and tongue,Oral soft tissue dis NEC,Digestive System
+360,529,Diseases and other conditions of the tongue,Tongue disorder NOS,Digestive System
+361,53,Herpes zoster,Herpes zoster NOS,Infectious & Parasitic Diseases
+362,530,Diseases of esophagus,Esophageal disorder NOS,Digestive System
+363,531,Gastric ulcer,Stomach ulcer NOS,Digestive System
+364,532,Duodenal ulcer,Duodenal ulcer NOS,Digestive System
+365,533,Peptic ulcer site unspecified,Peptic ulcer NOS,Digestive System
+366,534,Gastrojejunal ulcer,Gastrojejunal ulcer NOS,Digestive System
+367,535,Gastritis and duodenitis,Gstr/ddnts NOS w/o hmrhg,Digestive System
+368,536,Disorders of function of stomach,Stomach function dis NOS,Digestive System
+369,537,Other disorders of stomach and duodenum,Gastroduodenal dis NOS,Digestive System
+370,54,Herpes simplex,Herpes simplex NOS,Infectious & Parasitic Diseases
+371,540,Acute appendicitis,Acute appendicitis NOS,Digestive System
+372,541,Appendicitis unqualified,Appendicitis NOS,Digestive System
+373,542,Other appendicitis,Other appendicitis,Digestive System
+374,543,Other diseases of appendix,Diseases of appendix NEC,Digestive System
+375,550,Inguinal hernia,Unilat inguinal hernia,Digestive System
+376,551,Other hernia of abdominal cavity with gangrene,Hernia site NOS w gangr,Digestive System
+377,552,Other hernia of abdominal cavity with obstruction but without mention of gangrene,Hernia site NOS w obstr,Digestive System
+378,553,Other hernia of abdominal cavity without mention of obstruction or gangrene,Hernia NOS,Digestive System
+379,555,Regional enteritis,Regional enteritis NOS,Digestive System
+380,556,Ulcerative enterocolitis,Ulceratve colitis unspcf,Digestive System
+381,557,Vascular insufficiency of intestine,Vasc insuff intest NOS,Digestive System
+382,558,Other and unspecified noninfectious gastroenteritis and colitis,Noninf gastroenterit NEC,Digestive System
+383,560,Intestinal obstruction without mention of hernia,Intestinal obstruct NOS,Digestive System
+384,562,Diverticula of intestine,Dvrtclo colon w/o hmrhg,Digestive System
+385,564,Functional digestive disorders not elsewhere classified,Funct dis intestine NOS,Digestive System
+386,565,Anal fissure and fistula,Anal fissure,Digestive System
+387,566,Abscess of anal and rectal regions,Anal & rectal abscess,Digestive System
+388,567,Peritonitis,Peritonitis NOS,Digestive System
+389,568,Other disorders of peritoneum,Peritoneal disorder NOS,Digestive System
+390,569,Other disorders of intestine,Intestinal disorder NOS,Digestive System
+391,57,Other viral exanthemata,Viral exanthemata NEC,Infectious & Parasitic Diseases
+392,570,Acute and subacute necrosis of liver,Acute necrosis of liver,Digestive System
+393,571,Chronic liver disease and cirrhosis,Chronic liver dis NOS,Digestive System
+394,572,Liver abscess and sequelae of chronic liver disease,Oth sequela chr liv dis,Digestive System
+395,573,Other disorders of liver,Liver disorder NOS,Digestive System
+396,574,Cholelithiasis,Cholelithiasis NOS,Digestive System
+397,575,Other disorders of gallbladder,Dis of gallbladder NOS,Digestive System
+398,576,Other disorders of biliary tract,Dis of biliary tract NOS,Digestive System
+399,577,Diseases of pancreas,Pancreatic disease NOS,Digestive System
+400,578,Gastrointestinal hemorrhage,Gastrointest hemorr NOS,Digestive System
+401,579,Intestinal malabsorption,Intest malabsorption NOS,Digestive System
+402,58,Other human herpesvirus,Human herpesvirus infect NEC,Infectious & Parasitic Diseases
+403,580,Acute glomerulonephritis,Acute nephritis NOS,Diseases of the Genitourinary System
+404,581,Nephrotic syndrome,Nephrotic syndrome NOS,Diseases of the Genitourinary System
+405,582,Chronic glomerulonephritis,Chronic nephritis NOS,Diseases of the Genitourinary System
+406,583,Nephritis and nephropathy not specified as acute or chronic,Nephritis NOS,Diseases of the Genitourinary System
+407,584,Acute renal failure,Acute kidney failure NOS,Diseases of the Genitourinary System
+408,585,Chronic renal failure,Chronic kidney dis NOS,Diseases of the Genitourinary System
+409,586,Renal failure unspecified,Renal failure NOS,Diseases of the Genitourinary System
+410,588,Disorders resulting from impaired renal function,Impaired renal funct NOS,Diseases of the Genitourinary System
+411,590,Infections of kidney,Infection of kidney NOS,Diseases of the Genitourinary System
+412,591,Hydronephrosis,Hydronephrosis,Diseases of the Genitourinary System
+413,592,Calculus of kidney and ureter,Urinary calculus NOS,Diseases of the Genitourinary System
+414,593,Other disorders of kidney and ureter,Renal & ureteral dis NOS,Diseases of the Genitourinary System
+415,594,Calculus of lower urinary tract,Lower urin calcul NOS,Diseases of the Genitourinary System
+416,595,Cystitis,Cystitis NOS,Diseases of the Genitourinary System
+417,596,Other disorders of bladder,Bladder disorder NOS,Diseases of the Genitourinary System
+418,598,Urethral stricture,Urethral stricture NOS,Diseases of the Genitourinary System
+419,599,Other disorders of urethra and urinary tract,Urinary tract dis NOS,Diseases of the Genitourinary System
+420,600,Hyperplasia of prostate,BPH NOS w/o ur obs/LUTS,Diseases of the Genitourinary System
+421,601,Inflammatory diseases of prostate,Prostatitis NOS,Diseases of the Genitourinary System
+422,602,Other disorders of prostate,Prostatic disorder NOS,Diseases of the Genitourinary System
+423,603,Hydrocele,Hydrocele NOS,Diseases of the Genitourinary System
+424,604,Orchitis and epididymitis,Orchitis/epididymit NOS,Diseases of the Genitourinary System
+425,605,Redundant prepuce and phimosis,Redun prepuce & phimosis,Diseases of the Genitourinary System
+426,607,Disorders of penis,Disorder of penis NOS,Diseases of the Genitourinary System
+427,608,Other disorders of male genital organs,Male genital dis NOS,Diseases of the Genitourinary System
+428,61,Dengue,Dengue,Infectious & Parasitic Diseases
+429,610,Benign mammary dysplasias,Benign mamm dysplas NOS,Diseases of the Genitourinary System
+430,611,Other disorders of breast,Disorders breast NEC,Diseases of the Genitourinary System
+431,614,Inflammatory disease of ovary fallopian tube pelvic cellular tissue and peritoneum,Fem pelv inflam dis NOS,Diseases of the Genitourinary System
+432,615,Inflammatory diseases of uterus except cervix,Uterine inflam dis NOS,Diseases of the Genitourinary System
+433,616,Inflammatory disease of cervix vagina and vulva,Female gen inflam NOS,Diseases of the Genitourinary System
+434,617,Endometriosis,Endometriosis NOS,Diseases of the Genitourinary System
+435,618,Genital prolapse,Genital prolapse NOS,Diseases of the Genitourinary System
+436,619,Fistula involving female genital tract,Fem genital fistula NOS,Diseases of the Genitourinary System
+437,620,Noninflammatory disorders of ovary fallopian tube and broad ligament,Noninfl dis ova/adnx NOS,Diseases of the Genitourinary System
+438,621,Disorders of uterus not elsewhere classified,Disorder of uterus NOS,Diseases of the Genitourinary System
+439,622,Noninflammatory disorders of cervix,Noninflam dis cervix NOS,Diseases of the Genitourinary System
+440,623,Noninflammatory disorders of vagina,Noninflam dis vagina NOS,Diseases of the Genitourinary System
+441,625,Pain and other symptoms associated with female genital organs,Fem genital symptoms NOS,Diseases of the Genitourinary System
+442,626,Disorders of menstruation and other abnormal bleeding from female genital tract,Menstrual disorder NOS,Diseases of the Genitourinary System
+443,627,Menopausal and postmenopausal disorders,Menopausal disorder NOS,Diseases of the Genitourinary System
+444,632,Missed abortion,Missed abortion,Pregnancy & Childbirth
+445,633,Ectopic pregnancy,Ectpc prg NOS w int preg,Pregnancy & Childbirth
+446,634,Spontaneous abortion,Spon abort uncompl-unsp,Pregnancy & Childbirth
+447,637,Unspecified abortion,Ab NOS uncomplicat-unsp,Pregnancy & Childbirth
+448,640,Hemorrhage in early pregnancy,Hemorr early preg-unspec,Pregnancy & Childbirth
+449,641,Antepartum hemorrhage abruptio placentae and placenta previa,Antepart hem NOS-unspec,Pregnancy & Childbirth
+450,642,Hypertension complicating pregnancy childbirth and the puerperium,Hyperten NOS-unspec,Pregnancy & Childbirth
+451,643,Excessive vomiting in pregnancy,Vomit of pg NOS-antepar,Pregnancy & Childbirth
+452,644,Early or threatened labor,Threat prem labor-unspec,Pregnancy & Childbirth
+453,645,Late pregnancy,Prolonged preg-unsp,Pregnancy & Childbirth
+454,646,Other complications of pregnancy not elsewhere classified,Preg compl NEC-unspec,Pregnancy & Childbirth
+455,647,Infectious and parasitic conditions in the mother classifiable elsewhere but complicating pregnancy childbirth or the puerperium,Infect NOS-unsp,Pregnancy & Childbirth
+456,648,Other current conditions in the mother classifiable elsewhere but complicating pregnancy childbirth or the puerperium,Oth curr cond preg-unsp,Pregnancy & Childbirth
+457,649,Other conditions or status of the mother complicating pregnancy childbirth or the puerperium,Spotting-unspecified,Pregnancy & Childbirth
+458,652,Malposition and malpresentation of fetus,Malposition NOS-unspec,Pregnancy & Childbirth
+459,653,Disproportion in pregnancy labor and delivery,Disproportion NOS-unspec,Pregnancy & Childbirth
+460,654,Abnormality of organs and soft tissues of pelvis,Abn pel org NEC preg-unsp,Pregnancy & Childbirth
+461,655,Known or suspected fetal abnormality affecting management of mother,Fetal abnorm NOS-unspec,Pregnancy & Childbirth
+462,656,Other fetal and placental problems affecting management of mother,Fet/plac prob NOS-unspec,Pregnancy & Childbirth
+463,657,Polyhydramnios,Polyhydramnios-unspec,Pregnancy & Childbirth
+464,658,Other problems associated with amniotic cavity and membranes,Amniotic prob NOS-unspec,Pregnancy & Childbirth
+465,659,Other indications for care or intervention related to labor and delivery not elsewhere classified,Complic labor NOS-unsp,Pregnancy & Childbirth
+466,66,Other arthropod-borne viral diseases,Arthropod virus NOS,Infectious & Parasitic Diseases
+467,660,Obstructed labor,Obstruc labor NOS-unspec,Pregnancy & Childbirth
+468,661,Abnormality of forces of labor,Abnormal labor NOS-unsp,Pregnancy & Childbirth
+469,663,Umbilical cord complications during labor and delivery,Cord compl NOS-antepart,Pregnancy & Childbirth
+470,664,Trauma to perineum and vulva during delivery,Ob perin traum NOS-unsp,Pregnancy & Childbirth
+471,665,Other obstetrical trauma,Ob trauma NOS-unspec,Pregnancy & Childbirth
+472,669,Other complications of labor and delivery not elsewhere classified,Compl deliv NEC-unsp,Pregnancy & Childbirth
+473,671,Venous complications in pregnancy and the puerperium,Ven compl preg NOS-unsp,Pregnancy & Childbirth
+474,674,Other and unspecified complications of the puerperium not elsewhere classified,Puerp compl NOS-unspec,Pregnancy & Childbirth
+475,680,Carbuncle and furuncle,Carbuncle NOS,Skin Diseases
+476,681,Cellulitis and abscess of finger and toe,Cellulitis of digit NOS,Skin Diseases
+477,682,Other cellulitis and abscess,Cellulitis NOS,Skin Diseases
+478,683,Acute lymphadenitis,Acute lymphadenitis,Skin Diseases
+479,684,Impetigo,Impetigo,Skin Diseases
+480,685,Pilonidal cyst,Pilonidal cyst w/o absc,Skin Diseases
+481,686,Other local infections of skin and subcutaneous tissue,Local skin infection NOS,Skin Diseases
+482,690,Erythematosquamous dermatosis,Erythmtsquamous derm NEC,Skin Diseases
+483,691,Atopic dermatitis and related conditions,Other atopic dermatitis,Skin Diseases
+484,692,Contact dermatitis and other eczema,Dermatitis NOS,Skin Diseases
+485,693,Dermatitis due to substances taken internally,Dermat d/t int agent NOS,Skin Diseases
+486,694,Bullous dermatoses,Bullous dermatoses NOS,Skin Diseases
+487,695,Erythematous conditions,Erythematous cond NOS,Skin Diseases
+488,696,Psoriasis and similar disorders,Psorias related dis NEC,Skin Diseases
+489,698,Pruritus and related conditions,Pruritic disorder NOS,Skin Diseases
+490,7,Other protozoal intestinal diseases,Protozoal intest dis NOS,Infectious & Parasitic Diseases
+491,70,Viral hepatitis,Viral hepat NOS w/o coma,Infectious & Parasitic Diseases
+492,700,Corns and callosities,Corns and callosities,Skin Diseases
+493,703,Diseases of nail,Disease of nail NOS,Skin Diseases
+494,704,Diseases of hair and hair follicles,Hair disease NOS,Skin Diseases
+495,705,Disorders of sweat glands,Sweat gland disorder NOS,Skin Diseases
+496,706,Diseases of sebaceous glands,Sebaceous gland dis NOS,Skin Diseases
+497,707,Chronic ulcer of skin,Chronic skin ulcer NOS,Skin Diseases
+498,708,Urticaria,Urticaria NOS,Skin Diseases
+499,709,Other disorders of skin and subcutaneous tissue,Skin disorder NOS,Skin Diseases
+500,710,Diffuse diseases of connective tissue,Diff connect tis dis NOS,Musculoskeletal System
+501,711,Arthropathy associated with infections,Inf arthritis NOS-unspec,Musculoskeletal System
+502,714,Rheumatoid arthritis and other inflammatory polyarthropathies,Inflamm polyarthrop NOS,Musculoskeletal System
+503,715,Osteoarthrosis and allied disorders,Osteoarthros NOS-unspec,Musculoskeletal System
+504,716,Other and unspecified arthropathies,Arthropathy NOS-unspec,Musculoskeletal System
+505,717,Internal derangement of knee,Int derangement knee NOS,Musculoskeletal System
+506,718,Other derangement of joint,Jt derangmnt NOS-unsp jt,Musculoskeletal System
+507,719,Other and unspecified disorders of joint,Joint dis NOS-unspec jt,Musculoskeletal System
+508,720,Ankylosing spondylitis and other inflammatory spondylopathies,Inflam spondylopathy NOS,Musculoskeletal System
+509,721,Spondylosis and allied disorders,Spondylos NOS w/o myelop,Musculoskeletal System
+510,722,Intervertebral disc disorders,Disc dis NEC/NOS-unspec,Musculoskeletal System
+511,723,Other disorders of cervical region,Neck disorder/sympt NOS,Musculoskeletal System
+512,724,Other and unspecified disorders of back,Back disorder NOS,Musculoskeletal System
+513,725,Polymyalgia rheumatica,Polymyalgia rheumatica,Musculoskeletal System
+514,726,Peripheral enthesopathies and allied syndromes,Enthesopathy site NOS,Musculoskeletal System
+515,727,Other disorders of synovium tendon and bursa,Synov/tend/bursa dis NOS,Musculoskeletal System
+516,728,Disorders of muscle ligament and fascia,Muscle/ligament dis NOS,Musculoskeletal System
+517,729,Other disorders of soft tissues,Soft tissue disord NOS,Musculoskeletal System
+518,730,Osteomyelitis periostitis and other infections involving bone,Osteomyelitis NOS-unspec,Musculoskeletal System
+519,731,Osteitis deformans and osteopathies associated with other disorders classified elsewhere,Osteitis deformans NOS,Musculoskeletal System
+520,732,Osteochondropathies,Osteochondropathy NOS,Musculoskeletal System
+521,733,Other disorders of bone and cartilage,Bone & cartilage dis NOS,Musculoskeletal System
+522,734,Flat foot,Flat foot,Musculoskeletal System
+523,735,Acquired deformities of toe,Acq deformity of toe NOS,Musculoskeletal System
+524,736,Other acquired deformities of limbs,Acq limb deformity NOS,Musculoskeletal System
+525,737,Curvature of spine,Curvature of spine NOS,Musculoskeletal System
+526,738,Other acquired musculoskeletal deformity,Acq deformity NOS,Musculoskeletal System
+527,745,Bulbus cordis anomalies and anomalies of cardiac septal closure,Septal closure anom NOS,Congenital Anomalies
+528,746,Other congenital anomalies of heart,Cong heart anomaly NOS,Congenital Anomalies
+529,747,Other congenital anomalies of circulatory system,Circulatory anomaly NOS,Congenital Anomalies
+530,75,Infectious mononucleosis,Infectious mononucleosis,Infectious & Parasitic Diseases
+531,751,Other congenital anomalies of digestive system,Anom digestive syst NOS,Congenital Anomalies
+532,753,Congenital anomalies of urinary system,Urinary anomaly NOS,Congenital Anomalies
+533,756,Other congenital musculoskeletal anomalies,Musculoskel anom NEC/NOS,Congenital Anomalies
+534,759,Other and unspecified congenital anomalies,Congenital anomaly NOS,Congenital Anomalies
+535,78,Other diseases due to viruses and chlamydiae,Chlamydial infection NOS,Infectious & Parasitic Diseases
+536,780,General symptoms,General symptoms,Symptoms Signs & Ill-defined Conditions
+537,781,Symptoms involving nervous and musculoskeletal systems,Nerve/musculskel sym NEC,Symptoms Signs & Ill-defined Conditions
+538,782,Symptoms involving skin and other integumentary tissue,Integument tiss symp NEC,Symptoms Signs & Ill-defined Conditions
+539,783,Symptoms concerning nutrition metabolism and development,Nutr/metab/devel sym NEC,Symptoms Signs & Ill-defined Conditions
+540,784,Symptoms involving head and neck,Head & neck symptoms NEC,Symptoms Signs & Ill-defined Conditions
+541,785,Symptoms involving cardiovascular system,Cardiovas sys symp NEC,Symptoms Signs & Ill-defined Conditions
+542,786,Symptoms involving respiratory system and other chest symptoms,Resp sys/chest symp NEC,Symptoms Signs & Ill-defined Conditions
+543,787,Symptoms involving digestive system,Digestve syst symptm NEC,Symptoms Signs & Ill-defined Conditions
+544,788,Symptoms involving urinary system,Oth symptm urinary systm,Symptoms Signs & Ill-defined Conditions
+545,789,Other symptoms involving abdomen and pelvis,Abdomen/pelvis symp NEC,Symptoms Signs & Ill-defined Conditions
+546,79,Viral and chlamydial infection in conditions classified elsewhere and of unspecified site,Viral infection NOS,Infectious & Parasitic Diseases
+547,790,Nonspecific findings on examination of blood,Abn blood chemistry NEC,Symptoms Signs & Ill-defined Conditions
+548,791,Nonspecific findings on examination of urine,Abn urine findings NEC,Symptoms Signs & Ill-defined Conditions
+549,792,Nonspecific abnormal findings in other body substances,Abn find-body subst NEC,Symptoms Signs & Ill-defined Conditions
+550,793,Nonspecific abnormal findings on radiological and other examination of body structure,Nonsp abn find-body NEC,Symptoms Signs & Ill-defined Conditions
+551,794,Nonspecific abnormal results of function studies,Abn function study NEC,Symptoms Signs & Ill-defined Conditions
+552,795,Nonspecific abnormal histological and immunological findings,Abnormal findings NEC,Symptoms Signs & Ill-defined Conditions
+553,796,Other nonspecific abnormal findings,Abnormal findings NEC,Symptoms Signs & Ill-defined Conditions
+554,797,Senility without mention of psychosis,Senility w/o psychosis,Symptoms Signs & Ill-defined Conditions
+555,799,Other ill-defined and unknown causes of morbidity and mortality,Ill-define condition NEC,Symptoms Signs & Ill-defined Conditions
+556,8,Intestinal infections due to other organisms,Bacterial enteritis NOS,Infectious & Parasitic Diseases
+557,800,Fracture of vault of skull,Closed skull vault fx,Injury & Poisoning
+558,801,Fracture of base of skull,Clos skull base fracture,Injury & Poisoning
+559,802,Fracture of face bones,Fx malar/maxillary-close,Injury & Poisoning
+560,803,Other and unqualified skull fractures,Close skull fracture NEC,Injury & Poisoning
+561,804,Multiple fractures involving skull or face with other bones,Cl skul fx w oth bone fx,Injury & Poisoning
+562,805,Fracture of vertebral column without mention of spinal cord injury,Fx cervical vert NOS-cl,Injury & Poisoning
+563,806,Fracture of vertebral column with spinal cord injury,C1-c4 fx-cl/cord inj NOS,Injury & Poisoning
+564,807,Fracture of rib(s) sternum larynx and trachea,Fracture rib NOS-closed,Injury & Poisoning
+565,808,Fracture of pelvis,Pelvic fracture NOS-clos,Injury & Poisoning
+566,810,Fracture of clavicle,Fx clavicle NOS-closed,Injury & Poisoning
+567,812,Fracture of humerus,Fx humerus NOS-closed,Injury & Poisoning
+568,813,Fracture of radius and ulna,Fx forearm NOS-closed,Injury & Poisoning
+569,814,Fracture of carpal bone(s),Fx carpal bone NOS-close,Injury & Poisoning
+570,815,Fracture of metacarpal bone(s),Fx metacarpal NOS-closed,Injury & Poisoning
+571,816,Fracture of one or more phalanges of hand,Fx phalanx hand NOS-cl,Injury & Poisoning
+572,817,Multiple fractures of hand bones,Multiple fx hand-closed,Injury & Poisoning
+573,82,Tick-borne rickettsioses,Tick-borne ricketts NOS,Infectious & Parasitic Diseases
+574,820,Fracture of neck of femur,Fx neck of femur NOS-cl,Injury & Poisoning
+575,821,Fracture of other and unspecified parts of femur,Fx femur NOS-closed,Injury & Poisoning
+576,822,Fracture of patella,Fracture patella-closed,Injury & Poisoning
+577,823,Fracture of tibia and fibula,Fx tibia NOS-closed,Injury & Poisoning
+578,824,Fracture of ankle,Fx ankle NOS-closed,Injury & Poisoning
+579,825,Fracture of one or more tarsal and metatarsal bones,Fx foot bone NOS-closed,Injury & Poisoning
+580,826,Fracture of one or more phalanges of foot,Fx phalanx foot-closed,Injury & Poisoning
+581,827,Other multiple and ill-defined fractures of lower limb,Fx lower limb NEC-closed,Injury & Poisoning
+582,831,Dislocation of shoulder,Disloc shoulder NOS-clos,Injury & Poisoning
+583,832,Dislocation of elbow,Dislocat elbow NOS-close,Injury & Poisoning
+584,833,Dislocation of wrist,Disloc wrist NOS-closed,Injury & Poisoning
+585,834,Dislocation of finger,Disl finger NOS-closed,Injury & Poisoning
+586,835,Dislocation of hip,Dislocat hip NOS-closed,Injury & Poisoning
+587,836,Dislocation of knee,Dislocat knee NOS-closed,Injury & Poisoning
+588,837,Dislocation of ankle,Dislocation ankle-closed,Injury & Poisoning
+589,838,Dislocation of foot,Dislocat foot NOS-closed,Injury & Poisoning
+590,839,Other multiple and ill-defined dislocations,Dislocation NEC-closed,Injury & Poisoning
+591,84,Malaria,Malaria NOS,Infectious & Parasitic Diseases
+592,840,Sprains and strains of shoulder and upper arm,Sprain shoulder/arm NOS,Injury & Poisoning
+593,842,Sprains and strains of wrist and hand,Sprain hand NOS,Injury & Poisoning
+594,843,Sprains and strains of hip and thigh,Sprain hip & thigh NOS,Injury & Poisoning
+595,844,Sprains and strains of knee and leg,Sprain of knee & leg NOS,Injury & Poisoning
+596,845,Sprains and strains of ankle and foot,Sprain of foot NOS,Injury & Poisoning
+597,846,Sprains and strains of sacroiliac region,Sprain sacroiliac NOS,Injury & Poisoning
+598,847,Sprains and strains of other and unspecified parts of back,Sprain of back NOS,Injury & Poisoning
+599,848,Other and ill-defined sprains and strains,Sprain NOS,Injury & Poisoning
+600,850,Concussion,Concussion NOS,Injury & Poisoning
+601,851,Cerebral laceration and contusion,Cerebral cortx contusion,Injury & Poisoning
+602,852,Subarachnoid subdural and extradural hemorrhage following injury,Traumatic subdural hem,Injury & Poisoning
+603,853,Other and unspecified intracranial hemorrhage following injury,Traumatic brain hem NEC,Injury & Poisoning
+604,854,Intracranial injury of other and unspecified nature,Brain injury NEC,Injury & Poisoning
+605,860,Traumatic pneumothorax and hemothorax,Traum pneumothorax-close,Injury & Poisoning
+606,861,Injury to heart and lung,Heart injury NOS-closed,Injury & Poisoning
+607,862,Injury to other and unspecified intrathoracic organs,Intrathoracic inj NOS-cl,Injury & Poisoning
+608,863,Injury to gastrointestinal tract,GI injury NOS-closed,Injury & Poisoning
+609,864,Injury to liver,Liver injury NOS-closed,Injury & Poisoning
+610,865,Injury to spleen,Spleen injury NOS-closed,Injury & Poisoning
+611,866,Injury to kidney,Kidney injury NOS-closed,Injury & Poisoning
+612,867,Injury to pelvic organs,Pelvic organ inj NOS-cl,Injury & Poisoning
+613,868,Injury to other intra-abdominal organs,Intra-abdom inj NOS-clos,Injury & Poisoning
+614,870,Open wound of ocular adnexa,Opn wnd ocular adnex NOS,Injury & Poisoning
+615,871,Open wound of eyeball,Opn wound of eyeball NOS,Injury & Poisoning
+616,873,Other open wound of head,Open wound of head NEC,Injury & Poisoning
+617,875,Open wound of chest (wall),Open wound of chest,Injury & Poisoning
+618,878,Open wound of genital organs (external) including traumatic amputation,Open wound genital NEC,Injury & Poisoning
+619,879,Open wound of other and unspecified sites except limbs,Open wound site NOS,Injury & Poisoning
+620,88,Other arthropod-borne diseases,Arthropod-borne dis NOS,Infectious & Parasitic Diseases
+621,880,Open wound of shoulder and upper arm,Open wound of shoulder,Injury & Poisoning
+622,881,Open wound of elbow forearm and wrist,Open wound of forearm,Injury & Poisoning
+623,882,Open wound of hand except finger(s) alone,Open wound of hand,Injury & Poisoning
+624,883,Open wound of finger(s),Open wound of finger,Injury & Poisoning
+625,885,Traumatic amputation of thumb (complete) (partial),Amputation thumb,Injury & Poisoning
+626,886,Traumatic amputation of other finger(s) (complete) (partial),Amputation finger,Injury & Poisoning
+627,890,Open wound of hip and thigh,Open wound of hip/thigh,Injury & Poisoning
+628,891,Open wound of knee leg (except thigh) and ankle,Open wnd knee/leg/ankle,Injury & Poisoning
+629,892,Open wound of foot except toe(s) alone,Open wound of foot,Injury & Poisoning
+630,893,Open wound of toe(s),Open wound of toe,Injury & Poisoning
+631,895,Traumatic amputation of toe(s) (complete) (partial),Amputation toe,Injury & Poisoning
+632,897,Traumatic amputation of leg(s) (complete) (partial),Amputation leg NOS,Injury & Poisoning
+633,9,Ill-defined intestinal infections,Intestinal infections,Infectious & Parasitic Diseases
+634,903,Injury to blood vessels of upper extremity,Injury arm vessel NOS,Injury & Poisoning
+635,904,Injury to blood vessels of lower extremity and unspecified sites,Injury leg vessel NOS,Injury & Poisoning
+636,906,Late effects of injuries to skin and subcutaneous tissues,Late eff superficial inj,Injury & Poisoning
+637,911,Superficial injury of trunk,Superfic inj trunk NEC,Injury & Poisoning
+638,913,Superficial injury of elbow forearm and wrist,Superf inj forearm NEC,Injury & Poisoning
+639,914,Superficial injury of hand(s) except finger(s) alone,Superficial inj hand NEC,Injury & Poisoning
+640,915,Superficial injury of finger(s),Suprf inj finger NEC,Injury & Poisoning
+641,916,Superficial injury of hip thigh leg and ankle,Superf inj leg NEC-infect,Injury & Poisoning
+642,917,Superficial injury of foot and toe(s),Superf inj foot/toe NEC,Injury & Poisoning
+643,919,Superficial injury of other multiple and unspecified sites,Superficial injury NEC,Injury & Poisoning
+644,920,Contusion of face scalp and neck except eye(s),Contusion face/scalp/nck,Injury & Poisoning
+645,921,Contusion of eye and adnexa,Contusion of eye NOS,Injury & Poisoning
+646,922,Contusion of trunk,Contusion trunk NOS,Injury & Poisoning
+647,923,Contusion of upper limb,Contusion upper limb NOS,Injury & Poisoning
+648,924,Contusion of lower limb and of other and unspecified sites,Contusion leg NOS,Injury & Poisoning
+649,928,Crushing injury of lower limb,Crushing injury leg NOS,Injury & Poisoning
+650,933,Foreign body in pharynx and larynx,Foreign body in pharynx,Injury & Poisoning
+651,934,Foreign body in trachea bronchus and lung,FB respiratory tree NOS,Injury & Poisoning
+652,935,Foreign body in mouth esophagus and stomach,Foreign body GI NOS,Injury & Poisoning
+653,936,Foreign body in intestine and colon,FB in intestine & colon,Injury & Poisoning
+654,939,Foreign body in genitourinary tract,Foreign bdy gu tract NOS,Injury & Poisoning
+655,94,Neurosyphilis,Neurosyphilis NOS,Infectious & Parasitic Diseases
+656,941,Burn of face head and neck,Burn NOS head-unspec,Injury & Poisoning
+657,942,Burn of trunk,Burn NOS trunk-unspec,Injury & Poisoning
+658,944,Burn of wrist(s) and hand(s),Burn NOS hand-unspec,Injury & Poisoning
+659,945,Burn of lower limb(s),Burn NOS leg-unspec,Injury & Poisoning
+660,952,Spinal cord injury without evidence of spinal bone injury,Spinal cord injury NOS,Injury & Poisoning
+661,955,Injury to peripheral nerve(s) of shoulder girdle and upper limb,Inj nerve shldr/arm NOS,Injury & Poisoning
+662,957,Injury to other and unspecified nerves,Injury to nerve NOS,Injury & Poisoning
+663,958,Certain early complications of trauma,Early complic trauma NEC,Injury & Poisoning
+664,959,Injury other and unspecified,Injury-site NOS,Injury & Poisoning
+665,962,Poisoning by hormones and synthetic substitutes,Poisoning hormon NEC/NOS,Injury & Poisoning
+666,963,Poisoning by primarily systemic agents,Poisoning-system agt NOS,Injury & Poisoning
+667,964,Poisoning by agents primarily affecting blood constituents,Poisoning-blood agt NOS,Injury & Poisoning
+668,965,Poisoning by analgesics antipyretics and antirheumatics,Pois-analges/antipyr NOS,Injury & Poisoning
+669,966,Poisoning by anticonvulsants and anti-parkinsonism drugs,Pois-anticonvul NEC/NOS,Injury & Poisoning
+670,967,Poisoning by sedatives and hypnotics,Pois-sedative/hypnot NOS,Injury & Poisoning
+671,968,Poisoning by other central nervous system depressants and anesthetics,Pois-gen anesth NEC/NOS,Injury & Poisoning
+672,969,Poisoning by psychotropic agents,Poison-psychotropic NOS,Injury & Poisoning
+673,97,Other and unspecified syphilis,Syphilis NOS,Infectious & Parasitic Diseases
+674,970,Poisoning by central nervous system stimulants,Pois-cns stimulant NOS,Injury & Poisoning
+675,971,Poisoning by drugs primarily affecting the autonomic nervous system,Pois-autonomic agent NOS,Injury & Poisoning
+676,972,Poisoning by agents primarily affecting the cardiovascular system,Pois-cardiovasc agt NOS,Injury & Poisoning
+677,973,Poisoning by agents primarily affecting the gastrointestinal system,Poisoning-gi agent NOS,Injury & Poisoning
+678,974,Poisoning by water mineral and uric acid metabolism drugs,Pois-uric acid metabol,Injury & Poisoning
+679,975,Poisoning by agents primarily acting on the smooth and skeletal muscles and respiratory system,Pois-respir drug NEC/NOS,Injury & Poisoning
+680,976,Poisoning by agents primarily affecting skin and mucous membrane ophthalmological otorhinolaryngological and dental drugs,Pois-skin/membr agnt NOS,Injury & Poisoning
+681,977,Poisoning by other and unspecified drugs and medicinal substances,Poison-medicinal agt NOS,Injury & Poisoning
+682,98,Gonococcal infections,Gonococcal inf site NEC,Infectious & Parasitic Diseases
+683,980,Toxic effect of alcohol,Toxic effect alcohol NOS,Injury & Poisoning
+684,982,Toxic effect of solvents other than petroleum-based,Toxic eff nonpetrol solv,Injury & Poisoning
+685,983,Toxic effect of corrosive aromatics acids and caustic alkalis,Toxic effect caustic NOS,Injury & Poisoning
+686,986,Toxic effect of carbon monoxide,Tox eff carbon monoxide,Injury & Poisoning
+687,987,Toxic effect of other gases fumes or vapors,Toxic eff gas/vapor NOS,Injury & Poisoning
+688,988,Toxic effect of noxious substances eaten as food,Tox eff noxious food NOS,Injury & Poisoning
+689,989,Toxic effect of other substances chiefly nonmedicinal as to source,Tox eff nonmed subst NOS,Injury & Poisoning
+690,990,Effects of radiation unspecified,Effects radiation NOS,Injury & Poisoning
+691,991,Effects of reduced temperature,Effect reduced temp NOS,Injury & Poisoning
+692,992,Effects of heat and light,Heat effect NOS,Injury & Poisoning
+693,994,Effects of other external causes,Effect external caus NEC,Injury & Poisoning
+694,995,Certain adverse effects not elsewhere classified,Adverse effect NEC,Injury & Poisoning
+695,996,Complications peculiar to certain specified procedures,Comp-unsp device/graft,Injury & Poisoning
+696,997,Complications affecting specified body system not elsewhere classified,Surg comp-body syst NEC,Injury & Poisoning
+697,998,Other complications of procedures not elsewhere classified,Surgical complicat NOS,Injury & Poisoning
+698,999,Complications of medical care not elsewhere classified,Complic med care NEC/NOS,Injury & Poisoning
+699,E909,Accident due to cataclysmic earth surface movements and eruptions,Acc d/t eruptions NOS,Supplementary Classification of External Causes of Injury and Posoning
+700,V07,Need for isolation and other prophylactic measures,Prophylactic isolation,Supplementary Classification of Factors Influencing Health Status and Contact With Health Services
+701,V25,Encounter for contraceptive management,Contraceptive mangmt NOS,Supplementary Classification of Factors Influencing Health Status and Contact With Health Services
+702,V26,Procreative management,Procreative mangmt NOS,Supplementary Classification of Factors Influencing Health Status and Contact With Health Services
+703,V43,Organ or tissue replaced by other means,Organ/tiss replacmnt NEC,Supplementary Classification of Factors Influencing Health Status and Contact With Health Services
+704,V45,Other postprocedural states,Post-proc states NEC,Supplementary Classification of Factors Influencing Health Status and Contact With Health Services
+705,V51,Aftercare involving the use of plastic surgery,Aftercre plastc surg NEC,Supplementary Classification of Factors Influencing Health Status and Contact With Health Services
+706,V53,Fitting and adjustment of other device,Fit/adjust device NEC,Supplementary Classification of Factors Influencing Health Status and Contact With Health Services
+707,V54,Other orthopedic aftercare,Orthopedic aftercare NEC,Supplementary Classification of Factors Influencing Health Status and Contact With Health Services
+708,V55,Attention to artificial openings,Attn to artif open NEC,Supplementary Classification of Factors Influencing Health Status and Contact With Health Services
+709,V56,Encounter for dialysis and dialysis catheter care,Dialysis encounter NEC,Supplementary Classification of Factors Influencing Health Status and Contact With Health Services
+710,V57,Care involving use of rehabilitation procedures,Rehabilitation proc NEC,Supplementary Classification of Factors Influencing Health Status and Contact With Health Services
+711,V58,Encounter for other and unspecified procedures and aftercare,Aftercare NOS,Supplementary Classification of Factors Influencing Health Status and Contact With Health Services
+712,V60,Housing household and economic circumstances,Housing/econo circum NEC,Supplementary Classification of Factors Influencing Health Status and Contact With Health Services
+713,V63,Unavailability of other medical facilities for care,No med facilities NEC,Supplementary Classification of Factors Influencing Health Status and Contact With Health Services
+714,V66,Convalescence and palliative care,Convalescence NEC,Supplementary Classification of Factors Influencing Health Status and Contact With Health Services
+715,V67,Follow-up examination,Follow-up exam NEC,Supplementary Classification of Factors Influencing Health Status and Contact With Health Services
+716,V70,General medical examination,General medical exam NEC,Supplementary Classification of Factors Influencing Health Status and Contact With Health Services
+717,V71,Observation and evaluation for suspected conditions not found,Observ-suspect cond NOS,Supplementary Classification of Factors Influencing Health Status and Contact With Health Services
