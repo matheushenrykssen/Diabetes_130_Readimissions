@@ -83,6 +83,7 @@ Examples include:
 * Number of diagnoses
 * Race
 
+
 ---
 
 # 🗄 Database Modeling
@@ -112,6 +113,9 @@ The model includes:
 * Data integrity constraints
 * Appropriate SQL data types
 * Optimized relationships for analytical queries
+
+## Schema
+![Star Schema](images/schema.JPG)
 
 ---
 
@@ -301,9 +305,13 @@ Throughout this project I gained practical experience in:
 ---
 
 # 📷 Dashboard Preview
+![Executive Overview](images/executive_overview.JPG)
+![Readmission](images/dashboard_preview.JPG)
+![Diagnoses](images/diagnoses.JPG)
 
-![Executive OVerview](images/dashboard_preview.JPG)
+## Dashboard Link:
 
+[Dashboard_Diabetes_130](https://app.powerbi.com/view?r=eyJrIjoiYWY2YmM1Y2ItNjgxYy00ZWE3LTllYjEtNjczYzQwMDM0OTQ3IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 ---
 
 # 📄 Data Source
@@ -311,6 +319,8 @@ Throughout this project I gained practical experience in:
 Diabetes 130-US Hospitals for Years 1999–2008
 
 UCI Machine Learning Repository
+
+[Dataset](https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008)
 
 ---
 
