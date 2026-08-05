@@ -1,0 +1,22 @@
+medication_name,patients,usage_rate
+Insulin,54383,53.44
+Metformin,19988,19.64
+Glipizide,12686,12.47
+Glyburide,10650,10.47
+Pioglitazone,7328,7.2
+Rosiglitazone,6365,6.25
+Glimepiride,5191,5.1
+Repaglinide,1539,1.51
+Glyburide Metformin,706,0.69
+Nateglinide,703,0.69
+Acarbose,308,0.3
+Chlorpropamide,86,0.08
+Tolazamide,39,0.04
+Miglitol,38,0.04
+Tolbutamide,23,0.02
+Glipizide Metformin,13,0.01
+Troglitazone,3,0.0
+Metformin Rosiglitazone,2,0.0
+Acetohexamide,1,0.0
+Glimepiride Pioglitazone,1,0.0
+Metformin Pioglitazone,1,0.0
