@@ -302,7 +302,7 @@ Throughout this project I gained practical experience in:
 
 # 📷 Dashboard Preview
 
-*(Add screenshots of your Power BI dashboard here.)*
+![Executive OVerview](images/dashboard_preview.JPG)
 
 ---
 
